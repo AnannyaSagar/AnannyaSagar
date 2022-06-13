@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnannyaSagar
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI, Data Science, Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science Roles
 - 📫 How to reach me 
